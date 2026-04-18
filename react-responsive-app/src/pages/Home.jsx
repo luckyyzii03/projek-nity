@@ -10,7 +10,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid md:grid-cols-2 gap-12 items-center">
           <div className="order-2 md:order-1 text-left">
             <span className="inline-block py-1 px-4 rounded-full bg-brand-light text-brand-primary border border-brand-primary/20 text-sm font-semibold tracking-wide mb-6">
-              Pusat Oleh-Oleh Khas Purwokerto
+              Pusat Oleh-Oleh Khas Banyumas
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
               Cita Rasa Autentik <br/>
