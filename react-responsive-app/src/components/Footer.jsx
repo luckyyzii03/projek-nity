@@ -54,7 +54,7 @@ const Footer = () => {
           <div>
             <h3 className="font-bold text-gray-900 mb-4 text-lg">Beli Produk</h3>
             <ul className="space-y-3 text-sm text-gray-500">
-              <li><a href="#" className="hover:text-brand-primary flex items-center gap-1"><ChevronRight className="w-3 h-3 text-brand-primary" /> Niti 2 GoFood</a></li>
+              <li><a href="https://gofood.link/a/Kg61Atj" target="_blank" rel="noopener noreferrer" className="hover:text-brand-primary flex items-center gap-1"><ChevronRight className="w-3 h-3 text-brand-primary" /> Niti 2 GoFood</a></li>
             </ul>
           </div>
 
@@ -63,7 +63,7 @@ const Footer = () => {
             <h3 className="font-bold text-gray-900 mb-4 text-lg">Sosial Media</h3>
             <ul className="space-y-4 text-sm text-gray-500">
               <li>
-                <a href="#" className="hover:text-brand-primary flex items-center gap-3">
+                <a href="https://www.instagram.com/niti2tempekeripik__?igsh=MTNpMTYweWkyZTVvaw==" target="_blank" rel="noopener noreferrer" className="hover:text-brand-primary flex items-center gap-3">
                   <InstagramIcon />
                   @niti2tempekeripik_
                 </a>
@@ -76,13 +76,13 @@ const Footer = () => {
             <h3 className="font-bold text-gray-900 mb-4 text-lg">Kontak Kami</h3>
             <ul className="space-y-4 text-sm text-gray-500">
               <li>
-                <a href="#" className="hover:text-brand-primary flex items-center gap-3">
+                <a href="https://wa.me/6281225296127" target="_blank" rel="noopener noreferrer" className="hover:text-brand-primary flex items-center gap-3">
                   <Phone className="w-5 h-5 text-brand-primary" />
                   +6281 225 296 127
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-brand-primary flex items-center gap-3">
+                <a href="https://wa.me/6281297172982" target="_blank" rel="noopener noreferrer" className="hover:text-brand-primary flex items-center gap-3">
                   <Phone className="w-5 h-5 text-brand-primary" />
                   +6281 297 172 982
                 </a>
