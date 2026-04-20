@@ -91,7 +91,7 @@ const Home = () => {
             <div className="h-[400px] rounded-2xl overflow-hidden shadow-lg border-4 border-white">
               {/* Google Maps iframe placeholder for Niti 2 Purwokerto */}
               <iframe 
-                src="https://maps.app.goo.gl/AMXRi8ZD4yC9rw149" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15825.53229074304!2d109.24465380084466!3d-7.422788681896144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e655fde9a058b97%3A0x11ca885d8d0ebd06!2sniti%202!5e0!3m2!1sid!2sid!4v1776679158562!5m2!1sid!2sid" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 
