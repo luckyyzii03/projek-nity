@@ -8,7 +8,7 @@ const Catalog = () => {
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  const categories = ['Semua', 'Makanan', 'Minuman', 'Souvenir'];
+  const categories = ['Semua', 'Makanan Kering', 'Makanan Semi-Basah'];
 
   useEffect(() => {
     const fetchProducts = async () => {
@@ -40,7 +40,7 @@ const Catalog = () => {
       <div className="text-center mb-10">
         <h1 className="text-3xl md:text-5xl font-bold text-gray-900 mb-4">Katalog Produk</h1>
         <p className="text-gray-600 max-w-2xl mx-auto">
-          Temukan makanan ringan dan suvenir terbaik khas Purwokerto.
+          Temukan oleh-oleh khas Purwokerto.
         </p>
       </div>
 

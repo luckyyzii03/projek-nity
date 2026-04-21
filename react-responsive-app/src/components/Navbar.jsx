@@ -20,7 +20,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center gap-2">
             <Store className="h-8 w-8 text-brand-primary" />
             <span className="font-bold text-xl text-gray-900 tracking-tight">
-              Oleh-Oleh <span className="text-brand-primary">Niti 2</span>
+               <span className="text-brand-primary">Niti 2</span>
             </span>
           </Link>
 
