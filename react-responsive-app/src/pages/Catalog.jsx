@@ -8,7 +8,7 @@ const Catalog = () => {
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  const categories = ['Semua', 'Makanan', 'Minuman', 'Souvenir'];
+  const categories = ['Semua', 'Makanan Kering', 'Makanan Semi-Basah'];
 
   useEffect(() => {
     const fetchProducts = async () => {
